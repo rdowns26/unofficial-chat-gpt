@@ -4,9 +4,7 @@
 
 
 A quick demo of what you'll get!
-https://user-images.githubusercontent.com/16071943/206560873-d3d5bbe2-61f7-48ef-bce6-8ae103256829.mov
-
-
+[![Watch the video](https://user-images.githubusercontent.com/16071943/206563542-ea661898-aa51-43f2-a948-6bb4db83fb07.png)](https://www.canva.com/design/DAFUNAixr9U/watch)
 
 # How to install
 - Make sure that python and virual environment is installed
