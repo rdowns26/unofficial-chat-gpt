@@ -60,6 +60,6 @@ python3 main.py
 Tip: we used ngrok to create a public URL to access our local host in order to receive the webhook information from Twilio
 
 # Inspired by
-- Tarnjeet's ChatGPT api repo: https://github.com/taranjeet/chatgpt-api
+- Taranjeet's ChatGPT api repo: https://github.com/taranjeet/chatgpt-api
 - Daniel Gross' whatsapp GPT repo: https://github.com/danielgross/whatsapp-gpt
 
