@@ -2,6 +2,12 @@
 - An unofficial way to access ChatGPT in your app using Browserless and selenium
 - It receives an sms message, opens a headless browser, and parses html to return a response sms message to the sender.
 
+
+A quick demo of what you'll get!
+https://user-images.githubusercontent.com/16071943/206560873-d3d5bbe2-61f7-48ef-bce6-8ae103256829.mov
+
+
+
 # How to install
 - Make sure that python and virual environment is installed
 - Clone the github repo
